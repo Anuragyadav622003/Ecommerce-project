@@ -1,0 +1,12 @@
+a{
+    text-decoration: none;
+}
+.pointer-underline {
+    cursor: pointer;
+    text-decoration: none; /* Remove the default text-decoration */
+    transition: text-decoration 0.2s; /* Add a smooth transition effect */
+  }
+  
+  .pointer-underline:hover {
+    text-decoration: underline; /* Underline text on hover */
+  }

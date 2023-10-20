@@ -1,0 +1,22 @@
+.cart{
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin-top: 20px;
+}
+
+select{
+    width:33px;
+background-color:none;
+}
+select:hover{
+    background-color:rgba(61, 58, 58, 0) ;
+    border: none;
+}
+img{
+    height:185px;
+}
+@media screen and (max-width:1000px) {
+  
+}
